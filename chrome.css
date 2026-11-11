@@ -1,0 +1,68 @@
+/* Zolf Mods Window Control Buttons
+ * Version: 1.0.0
+ * Author: MrZolf
+ */
+
+.titlebar-buttonbox {
+  padding: 8px !important;
+}
+
+.titlebar-button {
+  color: #a6a6a7 !important;
+  filter:
+    drop-shadow(0 0 0 #a0a0a2)
+    drop-shadow(0 0 1px #a0a0a2);
+}
+
+.titlebar-button:hover {
+  color: #a6a6a7 !important;
+  filter:
+    drop-shadow(0 0 0 black)
+    drop-shadow(0 0 1px black);
+}
+
+.titlebar-min {
+  padding-left: 6px !important;
+  padding-right: 6px !important;
+  border-radius: var(--uc-contextmenu-menuitem-border-radius) !important;
+}
+
+.titlebar-min:hover {
+  background-color: #febb40 !important;
+  color: #995712 !important;
+  box-shadow: 0 0 0 2px #febb40 !important;
+  border-radius: 2px !important;
+}
+
+.titlebar-max,
+.titlebar-restore {
+  padding-left: 6px !important;
+  padding-right: 6px !important;
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+  border-radius: var(--uc-contextmenu-menuitem-border-radius) !important;
+}
+
+.titlebar-max:hover,
+.titlebar-restore:hover {
+  background-color: #34c848 !important;
+  color: #0b640f !important;
+  box-shadow: 0 0 0 2px #34c848 !important;
+  border-radius: 2px !important;
+  filter:
+    drop-shadow(0 0 0 black)
+    drop-shadow(0 0 1px black);
+}
+
+.titlebar-close {
+  padding-left: 6px !important;
+  padding-right: 6px !important;
+  border-radius: var(--uc-contextmenu-menuitem-border-radius) !important;
+}
+
+.titlebar-close:hover {
+  background-color: #fb5854 !important;
+  color: #80060d !important;
+  box-shadow: 0 0 0 2px #fb5854 !important;
+  border-radius: 2px !important;
+}
