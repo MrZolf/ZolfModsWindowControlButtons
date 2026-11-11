@@ -1,0 +1,22 @@
+[
+  {
+    "property": "mod.zolf_mods_window_control_buttons.colored_buttons_on_hover",
+    "label": "Colored buttons on hover",
+    "type": "dropdown",
+    "defaultValue": "all",
+    "options": [
+      {
+        "label": "None",
+        "value": "none"
+      },
+      {
+        "label": "Close only",
+        "value": "close-only"
+      },
+      {
+        "label": "All",
+        "value": "all"
+      }
+    ]
+  }
+]

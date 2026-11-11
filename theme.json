@@ -1,9 +1,9 @@
 {
   "id": "zolf-mods-window-control-buttons",
   "name": "Zolf Mods Window Control Buttons",
-  "description": "Custom hover colors and spacing for Zen window control buttons.",
+  "description": "Custom styling and configurable hover colors for Zen Browser window control buttons.",
   "author": "MrZolf",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "createdAt": "2026-11-12",
   "updatedAt": "2026-11-12",
   "homepage": "https://github.com/MrZolf/ZolfModsWindowControlButtons",
